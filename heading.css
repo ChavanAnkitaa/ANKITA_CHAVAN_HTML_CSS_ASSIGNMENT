@@ -1,0 +1,40 @@
+#main
+{
+
+    width: 1000px;
+    height: 350px;
+    background-color:rgb(184, 253, 242);
+}
+
+#header1
+{
+    width:1000px;
+    height: 90px;
+    background-color:rgb(184, 253, 242) ;
+    text-align: left;
+}
+
+#header2
+{
+    width: 1000px;
+    height: 90px;
+    background-color:rgb(184, 253, 242);
+    text-align: left;
+}
+
+#header3
+{
+    width: 1000px;
+    height: 90px;
+    background-color:rgb(184, 253, 242);
+    text-align: left;
+}
+
+
+#header4
+{
+    width: 1000px;
+    height: 90px;
+    background-color:rgb(184, 253, 242);
+    text-align: left;
+}

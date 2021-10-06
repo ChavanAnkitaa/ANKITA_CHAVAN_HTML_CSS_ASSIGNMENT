@@ -1,0 +1,15 @@
+.borderdesign{
+
+    border-color : green;
+    border-width: 3px;
+    border-collapse :collapse;
+    outline-style: dotted;
+}
+
+.borderdesign  p {
+    
+   
+    border-style: solid;
+    border-color : red;
+
+}

@@ -1,0 +1,15 @@
+table ,th,td {
+  
+    font-family: tahoma;
+     border: 1px solid green;
+     border-collapse: separate;
+     
+ }
+ 
+ th {
+     background-color: green;
+     color : white ;
+ }
+ 
+ 
+ 

@@ -1,0 +1,30 @@
+.p1style {
+
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    background-color: rgb(181, 231, 231);
+}
+
+.p2style {
+
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    background-color: rgb(181, 231, 231);
+}
+
+.p3style{
+
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    background-color: rgb(181, 231, 231);
+}
+
+.empty {
+    
+    border-style: none;
+    border-width: thin;
+    background-color: rgb(181, 231, 231);
+}

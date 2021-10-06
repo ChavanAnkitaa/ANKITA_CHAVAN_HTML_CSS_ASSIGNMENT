@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman';
+    font-size: medium;
+    text-align: center;
+    background-color:rgb(132, 255, 255) ;
+}
+
+a:link{
+    color:red;
+}
+
+a:visited {
+    color:greenyellow;
+}
+
+a:active {
+    color: blue;
+}
+
+a:hover  {
+    color: hotpink;
+}
